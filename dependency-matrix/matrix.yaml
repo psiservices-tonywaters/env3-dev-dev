@@ -13,7 +13,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: PSIServices
-  repo: geneses
-  url: https://github.com/PSIServices/geneses.git
+  repo: smartpay-stub
+  url: https://github.com/PSIServices/smartpay-stub.git
   version: ""
   versionURL: ""
