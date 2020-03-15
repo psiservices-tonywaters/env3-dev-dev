@@ -13,7 +13,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: PSIServices
-  repo: common-dropwizard
-  url: https://github.com/PSIServices/common-dropwizard.git
+  repo: eas-results-service
+  url: https://github.com/PSIServices/eas-results-service.git
   version: ""
   versionURL: ""
