@@ -29,7 +29,7 @@ environments:
 - ingress:
     domain: psiac.net
     externalDNS: true
-    namespaceSubDomain: -staging.jx-dev.
+    namespaceSubDomain: "-staging.jx-dev."
     tls:
       email: ""
       enabled: false
