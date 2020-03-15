@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: PSIServices
+    provider: github
+    repository: common-dropwizard
+  name: psiservices-common-dropwizard
+spec:
+  description: Imported application for PSIServices/common-dropwizard
+  httpCloneURL: https://github.com/PSIServices/common-dropwizard.git
+  org: PSIServices
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: common-dropwizard
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/PSIServices/common-dropwizard.git
