@@ -25,11 +25,11 @@ environments:
         enabled: true
         production: true
     key: dev
-    repository: env-dev-dev
+    repository: env3-dev-dev
   - ingress:
       domain: psiac.net
       externalDNS: true
-      namespaceSubDomain: .jx-dev.
+      namespaceSubDomain: -staging.jx-dev.
       tls:
         email: ""
         enabled: false
@@ -37,9 +37,9 @@ environments:
     key: staging
     repository: env-dev-staging
   - ingress:
-      domain: qa.psiac.net
+      domain: psiac.net
       externalDNS: true
-      namespaceSubDomain: .qa.
+      namespaceSubDomain: -qa.jx-dev.
       tls:
         email: ""
         enabled: false
@@ -49,7 +49,7 @@ environments:
   - ingress:
       domain: psiac.net
       externalDNS: true
-      namespaceSubDomain: -dev.
+      namespaceSubDomain: -uat.jx-dev.
       tls:
         email: ""
         enabled: false
