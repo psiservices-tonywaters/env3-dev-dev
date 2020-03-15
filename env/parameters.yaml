@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jx-dev/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: tonywaters@psionline.com
+  token: local:jx-dev/pipelineUser:token
+  username: psiservices-tonywaters
+prow:
+  hmacToken: local:jx-dev/prow:hmacToken

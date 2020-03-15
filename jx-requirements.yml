@@ -5,8 +5,8 @@ bootConfigURL: https://github.com/jenkins-x/jenkins-x-boot-config.git
 cluster:
   clusterName: jx-dev
   devEnvApprovers:
-    - psiservices-tonywaters
-    - psiservices-rizwanullah
+  - psiservices-tonywaters
+  - psiservices-rizwanullah
   environmentGitOwner: psiservices-tonywaters
   gitKind: github
   gitName: github
@@ -16,56 +16,56 @@ cluster:
   region: eu-west-2
   registry: 774338652121.dkr.ecr.eu-west-2.amazonaws.com
 environments:
-  - ingress:
-      domain: psiac.net
-      externalDNS: true
-      namespaceSubDomain: .jx-dev.
-      tls:
-        email: tonywaters@psionline.com
-        enabled: true
-        production: true
-    key: dev
-    repository: env3-dev-dev
-  - ingress:
-      domain: psiac.net
-      externalDNS: true
-      namespaceSubDomain: -staging.jx-dev.
-      tls:
-        email: ""
-        enabled: false
-        production: false
-    key: staging
-    repository: env-dev-staging
-  - ingress:
-      domain: psiac.net
-      externalDNS: true
-      namespaceSubDomain: -qa.jx-dev.
-      tls:
-        email: ""
-        enabled: false
-        production: false
-    key: qa
-    repository: env-dev-qa
-  - ingress:
-      domain: psiac.net
-      externalDNS: true
-      namespaceSubDomain: -uat.jx-dev.
-      tls:
-        email: ""
-        enabled: false
-        production: false
-    key: uat
-    repository: env-dev-uat
-  - ingress:
-      domain: psiac.net
-      externalDNS: true
-      namespaceSubDomain: .jx-dev-production.
-      tls:
-        email: ""
-        enabled: false
-        production: false
-    key: production
-    repository: env-dev-production
+- ingress:
+    domain: psiac.net
+    externalDNS: true
+    namespaceSubDomain: -jx-dev.
+    tls:
+      email: tonywaters@psionline.com
+      enabled: true
+      production: true
+  key: dev
+  repository: env3-dev-dev
+- ingress:
+    domain: psiac.net
+    externalDNS: true
+    namespaceSubDomain: -staging.jx-dev.
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: staging
+  repository: env-dev-staging
+- ingress:
+    domain: psiac.net
+    externalDNS: true
+    namespaceSubDomain: -qa.jx-dev.
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: qa
+  repository: env-dev-qa
+- ingress:
+    domain: psiac.net
+    externalDNS: true
+    namespaceSubDomain: -uat.jx-dev.
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: uat
+  repository: env-dev-uat
+- ingress:
+    domain: psiac.net
+    externalDNS: true
+    namespaceSubDomain: .jx-dev-production.
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: production
+  repository: env-dev-production
 gitops: true
 ingress:
   domain: psiac.net
