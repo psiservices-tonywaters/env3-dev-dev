@@ -13,7 +13,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: PSIServices
-  repo: eas-exodus-admin
-  url: https://github.com/PSIServices/eas-exodus-admin.git
+  repo: common-dropwizard
+  url: https://github.com/PSIServices/common-dropwizard.git
   version: ""
   versionURL: ""
