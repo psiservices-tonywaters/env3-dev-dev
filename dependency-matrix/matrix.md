@@ -8,3 +8,4 @@ Dependency | Sources | Version | Mismatched versions
 [PSIServices/eas-ovp-service](https://github.com/PSIServices/eas-ovp-service.git) |  | []() | 
 [PSIServices/eas-common-dropwizard-1-1-3](https://github.com/PSIServices/eas-common-dropwizard-1-1-3.git) |  | []() | 
 [PSIServices/eas-common-testing](https://github.com/PSIServices/eas-common-testing.git) |  | []() | 
+[PSIServices/eas-common-testing-1-2](https://github.com/PSIServices/eas-common-testing-1-2.git) |  | []() | 
