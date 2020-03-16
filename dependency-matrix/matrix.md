@@ -7,3 +7,4 @@ Dependency | Sources | Version | Mismatched versions
 [PSIServices/smartpay-stub](https://github.com/PSIServices/smartpay-stub.git) |  | []() | 
 [PSIServices/eas-ovp-service](https://github.com/PSIServices/eas-ovp-service.git) |  | []() | 
 [PSIServices/eas-common-dropwizard-1-1-3](https://github.com/PSIServices/eas-common-dropwizard-1-1-3.git) |  | []() | 
+[PSIServices/eas-common-testing](https://github.com/PSIServices/eas-common-testing.git) |  | []() | 

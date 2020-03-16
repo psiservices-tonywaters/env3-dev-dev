@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: PSIServices
+    provider: github
+    repository: eas-common-testing
+  name: psiservices-eas-common-testing
+spec:
+  description: Imported application for PSIServices/eas-common-testing
+  httpCloneURL: https://github.com/PSIServices/eas-common-testing.git
+  org: PSIServices
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: eas-common-testing
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/PSIServices/eas-common-testing.git
