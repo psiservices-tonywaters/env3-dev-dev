@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/PSIServices/eas-ovp-service.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: PSIServices
+  repo: eas-common-dropwizard-1-1-3
+  url: https://github.com/PSIServices/eas-common-dropwizard-1-1-3.git
+  version: ""
+  versionURL: ""
