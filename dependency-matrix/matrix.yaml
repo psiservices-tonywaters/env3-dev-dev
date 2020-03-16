@@ -35,3 +35,9 @@ dependencies:
   url: https://github.com/PSIServices/eas-common-testing.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: PSIServices
+  repo: eas-common-testing-1-2
+  url: https://github.com/PSIServices/eas-common-testing-1-2.git
+  version: ""
+  versionURL: ""
