@@ -10,3 +10,4 @@ Dependency | Sources | Version | Mismatched versions
 [PSIServices/eas-common-testing](https://github.com/PSIServices/eas-common-testing.git) |  | []() | 
 [PSIServices/eas-common-testing-1-2](https://github.com/PSIServices/eas-common-testing-1-2.git) |  | []() | 
 [PSIServices/eas-selt-web](https://github.com/PSIServices/eas-selt-web.git) |  | []() | 
+[PSIServices/eas-payeeze-ws](https://github.com/PSIServices/eas-payeeze-ws.git) |  | []() | 
