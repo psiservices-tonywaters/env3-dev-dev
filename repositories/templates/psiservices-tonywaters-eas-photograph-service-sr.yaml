@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: psiservices-tonywaters
+    provider: github
+    repository: eas-photograph-service
+  name: psiservices-tonywaters-eas-photograph-service
+spec:
+  description: Imported application for psiservices-tonywaters/eas-photograph-service
+  httpCloneURL: https://github.com/psiservices-tonywaters/eas-photograph-service.git
+  org: psiservices-tonywaters
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: eas-photograph-service
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/psiservices-tonywaters/eas-photograph-service.git
