@@ -12,3 +12,4 @@ Dependency | Sources | Version | Mismatched versions
 [PSIServices/eas-selt-web](https://github.com/PSIServices/eas-selt-web.git) |  | []() | 
 [PSIServices/eas-payeeze-ws](https://github.com/PSIServices/eas-payeeze-ws.git) |  | []() | 
 [psiservices-tonywaters/eas-photograph-service](https://github.com/psiservices-tonywaters/eas-photograph-service.git) |  | []() | 
+[PSIServices/eas-selt-results-service](https://github.com/PSIServices/eas-selt-results-service.git) |  | []() | 
