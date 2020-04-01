@@ -14,3 +14,4 @@ Dependency | Sources | Version | Mismatched versions
 [psiservices-tonywaters/eas-photograph-service](https://github.com/psiservices-tonywaters/eas-photograph-service.git) |  | []() | 
 [PSIServices/eas-selt-results-service](https://github.com/PSIServices/eas-selt-results-service.git) |  | []() | 
 [PSIServices/eas-payeezy-stub](https://github.com/PSIServices/eas-payeezy-stub.git) |  | []() | 
+[PSIServices/eas-mailhog](https://github.com/PSIServices/eas-mailhog.git) |  | []() | 
