@@ -24,6 +24,3 @@ dependencies:
 - name: jx-app-kuberhealthy
   repository: http://chartmuseum.jenkins-x.io
   version: 0.0.2
-- name: jx-app-grafana
-  repository: http://chartmuseum.jenkins-x.io
-  version: 0.0.10
