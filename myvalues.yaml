@@ -1,4 +1,4 @@
 nexus:
   persistence:
-    Size: 30Gi
+    Size: 32Gi
 
