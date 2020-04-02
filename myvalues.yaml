@@ -3,5 +3,5 @@ nexus:
   persistence:
     enabled: true
     AccessMode: ReadWriteOnce
-    Size: 30Gi
+    Size: 35Gi
 
