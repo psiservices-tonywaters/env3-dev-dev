@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: psiservices-tonywaters
+    provider: github
+    repository: et2-stub
+  name: psiservices-tonywaters-et2-stub
+spec:
+  description: Imported application for psiservices-tonywaters/et2-stub
+  httpCloneURL: https://github.com/psiservices-tonywaters/et2-stub.git
+  org: psiservices-tonywaters
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: et2-stub
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/psiservices-tonywaters/et2-stub.git

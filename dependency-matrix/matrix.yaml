@@ -77,3 +77,9 @@ dependencies:
   url: https://github.com/PSIServices/eas-mailhog.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: psiservices-tonywaters
+  repo: et2-stub
+  url: https://github.com/psiservices-tonywaters/et2-stub.git
+  version: ""
+  versionURL: ""

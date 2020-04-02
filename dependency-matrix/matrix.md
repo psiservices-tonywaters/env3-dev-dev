@@ -15,3 +15,4 @@ Dependency | Sources | Version | Mismatched versions
 [PSIServices/eas-selt-results-service](https://github.com/PSIServices/eas-selt-results-service.git) |  | []() | 
 [PSIServices/eas-payeezy-stub](https://github.com/PSIServices/eas-payeezy-stub.git) |  | []() | 
 [PSIServices/eas-mailhog](https://github.com/PSIServices/eas-mailhog.git) |  | []() | 
+[psiservices-tonywaters/et2-stub](https://github.com/psiservices-tonywaters/et2-stub.git) |  | []() | 
