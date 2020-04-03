@@ -12,3 +12,8 @@ dex:
   certs:
     newApi: true
 
+nexus:
+  persistence:
+    enabled: true
+    AccessMode: ReadWriteOnce
+    Size: 32Gi
