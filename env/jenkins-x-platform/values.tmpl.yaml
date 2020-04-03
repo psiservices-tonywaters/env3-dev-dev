@@ -22,6 +22,10 @@ chartmuseum:
 {{- end }}
 
 nexus:
+  persistence:
+    enabled: true
+    AccessMode: ReadWriteOnce
+    Size: 32Gi
   defaultAdminPassword: "{{ .Parameters.adminUser.password }}"
 {{- if hasKey .Requirements "repository"}}
 {{- if or (eq .Requirements.repository "nexus") (eq .Requirements.repository "") }}
