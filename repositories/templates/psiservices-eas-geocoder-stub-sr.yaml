@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: PSIServices
+    provider: github
+    repository: eas-geocoder-stub
+  name: psiservices-eas-geocoder-stub
+spec:
+  description: Imported application for PSIServices/eas-geocoder-stub
+  httpCloneURL: https://github.com/PSIServices/eas-geocoder-stub.git
+  org: PSIServices
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: eas-geocoder-stub
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/PSIServices/eas-geocoder-stub.git
