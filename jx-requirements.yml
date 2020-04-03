@@ -49,7 +49,7 @@ environments:
 - ingress:
     domain: psiac.net
     externalDNS: true
-    namespaceSubDomain: -uat.jx-dev.
+    namespaceSubDomain: ".uat."
     tls:
       email: ""
       enabled: false
