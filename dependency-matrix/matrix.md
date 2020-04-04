@@ -17,3 +17,4 @@ Dependency | Sources | Version | Mismatched versions
 [PSIServices/eas-mailhog](https://github.com/PSIServices/eas-mailhog.git) |  | []() | 
 [psiservices-tonywaters/et2-stub](https://github.com/psiservices-tonywaters/et2-stub.git) |  | []() | 
 [PSIServices/eas-geocoder-stub](https://github.com/PSIServices/eas-geocoder-stub.git) |  | []() | 
+[PSIServices/eas-candidate-attendance-service](https://github.com/PSIServices/eas-candidate-attendance-service.git) |  | []() | 
