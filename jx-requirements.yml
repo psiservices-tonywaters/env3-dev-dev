@@ -29,9 +29,9 @@ environments:
 - key: staging
   repository: env-dev-staging
 - key: qa
-  repository: env-dev-qa
+  repository: env3-dev-qa
 - key: uat
-  repository: env-dev-uat
+  repository: env3-dev-uat
 - key: production
   repository: env-dev-production
 gitops: true
