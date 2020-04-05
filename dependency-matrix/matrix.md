@@ -18,3 +18,4 @@ Dependency | Sources | Version | Mismatched versions
 [psiservices-tonywaters/et2-stub](https://github.com/psiservices-tonywaters/et2-stub.git) |  | []() | 
 [PSIServices/eas-geocoder-stub](https://github.com/PSIServices/eas-geocoder-stub.git) |  | []() | 
 [PSIServices/eas-candidate-attendance-service](https://github.com/PSIServices/eas-candidate-attendance-service.git) |  | []() | 
+[PSIServices/eas-healthcheck-agent](https://github.com/PSIServices/eas-healthcheck-agent.git) |  | []() | 
