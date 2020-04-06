@@ -19,3 +19,4 @@ Dependency | Sources | Version | Mismatched versions
 [PSIServices/eas-geocoder-stub](https://github.com/PSIServices/eas-geocoder-stub.git) |  | []() | 
 [PSIServices/eas-candidate-attendance-service](https://github.com/PSIServices/eas-candidate-attendance-service.git) |  | []() | 
 [PSIServices/eas-healthcheck-agent](https://github.com/PSIServices/eas-healthcheck-agent.git) |  | []() | 
+[PSIServices/eas-results-service](https://github.com/PSIServices/eas-results-service.git) |  | []() | 
