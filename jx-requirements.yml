@@ -19,20 +19,52 @@ environments:
 - ingress:
     domain: psiac.net
     externalDNS: true
-    namespaceSubDomain: -jx-build.
+    namespaceSubDomain: -jx-dev.
     tls:
       email: tonywaters@psionline.com
       enabled: true
       production: true
   key: dev
   repository: env3-dev-dev
-- key: staging
+- ingress:
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: staging
   repository: env-dev-staging
-- key: qa
+- ingress:
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: qa
   repository: env3-dev-qa
-- key: uat
+- ingress:
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: uat
   repository: env3-dev-uat
-- key: production
+- ingress:
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: production
   repository: env-dev-production
 gitops: true
 ingress:
