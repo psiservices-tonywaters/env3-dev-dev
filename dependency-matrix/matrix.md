@@ -22,3 +22,4 @@ Dependency | Sources | Version | Mismatched versions
 [PSIServices/eas-results-service](https://github.com/PSIServices/eas-results-service.git) |  | []() | 
 [psiservices-tonywaters/eas-selt-security-policy](https://github.com/psiservices-tonywaters/eas-selt-security-policy.git) |  | []() | 
 [PSIServices/eas-payeezy-ws](https://github.com/PSIServices/eas-payeezy-ws.git) |  | []() | 
+[PSIServices/eas-exodus-ws](https://github.com/PSIServices/eas-exodus-ws.git) |  | []() | 
