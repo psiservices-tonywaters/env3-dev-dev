@@ -3,8 +3,21 @@ kind: SourceRepository
 metadata:
   annotations:
     jenkins.io/last-build-number-for-master: "2"
+    jenkins.io/last-build-number-for-pr-21: "4"
+    jenkins.io/last-build-number-for-pr-22: "2"
+    jenkins.io/last-build-number-for-pr-23: "6"
+    jenkins.io/last-build-number-for-pr-24: "1"
+    jenkins.io/last-build-number-for-pr-25: "1"
+    jenkins.io/last-build-number-for-pr-26: "1"
+    jenkins.io/last-build-number-for-pr-27: "1"
+    jenkins.io/last-build-number-for-pr-28: "1"
+    jenkins.io/last-build-number-for-pr-29: "1"
+    jenkins.io/last-build-number-for-pr-30: "1"
   creationTimestamp: null
   labels:
+    jenkins.io/chart-release: repos
+    jenkins.io/namespace: jx
+    jenkins.io/version: "82"
     owner: PSIServices
     provider: github
     repository: eas-selt-web
@@ -20,4 +33,4 @@ spec:
   scheduler:
     kind: ""
     name: ""
-  url: https://github.com/PSIServices/eas-selt-web.git
+  url: git@github.com:PSIServices/eas-selt-web.git
