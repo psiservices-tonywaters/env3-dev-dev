@@ -17,7 +17,7 @@ metadata:
   labels:
     jenkins.io/chart-release: repos
     jenkins.io/namespace: jx
-    jenkins.io/version: "82"
+    jenkins.io/version: "85"
     owner: PSIServices
     provider: github
     repository: eas-selt-web
