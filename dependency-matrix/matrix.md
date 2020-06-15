@@ -23,3 +23,4 @@ Dependency | Sources | Version | Mismatched versions
 [psiservices-tonywaters/eas-selt-security-policy](https://github.com/psiservices-tonywaters/eas-selt-security-policy.git) |  | []() | 
 [PSIServices/eas-payeezy-ws](https://github.com/PSIServices/eas-payeezy-ws.git) |  | []() | 
 [PSIServices/eas-exodus-ws](https://github.com/PSIServices/eas-exodus-ws.git) |  | []() | 
+[psiservices-tonywaters/eas-candidate-attendance-service](https://github.com/psiservices-tonywaters/eas-candidate-attendance-service.git) |  | []() | 

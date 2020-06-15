@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: psiservices-tonywaters
+    provider: github
+    repository: eas-candidate-attendance-service
+  name: psiservices-tonywaters-eas-candidate-attendance-service
+spec:
+  description: Imported application for psiservices-tonywaters/eas-candidate-attendance-service
+  httpCloneURL: https://github.com/psiservices-tonywaters/eas-candidate-attendance-service.git
+  org: psiservices-tonywaters
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: eas-candidate-attendance-service
+  scheduler:
+    kind: ""
+    name: ""
+  url: git@github.com:psiservices-tonywaters/eas-candidate-attendance-service.git
